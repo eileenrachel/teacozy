@@ -15,6 +15,7 @@ html {
   align-items: center;
   position: fixed;
   padding-left: 10px;
+  padding-right: 10px;
 }
 
 #header img {
@@ -26,7 +27,7 @@ html {
 }
 
 #header nav span {
-  padding: 20px;
+  padding: 10px;
 }
 
 #header nav span a {
