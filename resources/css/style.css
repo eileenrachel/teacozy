@@ -6,11 +6,16 @@ html {
   opacity: 0.9;
   background-color: black;
 }
+
+/* Header */
+
 #header {
   height: 69px;
   width: 100%;
   border-bottom: 1px solid seashell;
+  background-color: black;
   position: fixed;
+  z-index: 5;
 }
 
 #headercontent {
