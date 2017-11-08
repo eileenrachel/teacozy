@@ -12,6 +12,11 @@ body {
   padding: 0;
 }
 
+.verticalcenter {
+  display: flex;
+  align-items: center;
+}
+
 /* Header */
 
 #header {
@@ -24,9 +29,7 @@ body {
 }
 
 #headercontent {
-  display: flex;
   justify-content: space-between;
-  align-items: center;
   padding: 6px 10px;
 }
 
@@ -56,4 +59,5 @@ body {
 
 #missiontext {
   background-color: black;
+  width: 100%;
 }
